@@ -9,7 +9,7 @@ Select the operation you want to perform:
 
 `+` : Addition
 
-`` : Subtraction
+`-` : Subtraction
 
 `*` : Multiplication
 
