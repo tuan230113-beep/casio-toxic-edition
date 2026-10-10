@@ -1,4 +1,4 @@
-i am a vietnamese,So, when you use it, you will see Vietnamese words and a few sentences that I have translated into English using Google Translate.Before reading this, please note that this is my first C++ and Visual Studio project,thank you for checking and reading out my project and taking the time to read this!
+i am a vietnamese,So, when you use it, you will see Vietnamese words and a few sentences that I have translated into English using Google Translate.This is my first C++ project, so I hope you enjoy it and offer some feedback.thank you for checking and reading out my project and taking the time to read this!
 HOW TO USE
 
 First, enter your name in the console.
