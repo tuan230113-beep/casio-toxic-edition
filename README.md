@@ -7,11 +7,11 @@ Next, enter the two numbers you want to calculate when prompted with nhap a va b
 
 Select the operation you want to perform:
 
-+ : Addition
+`+` : Addition
 
-- : Subtraction
+`` : Subtraction
 
-* : Multiplication
+`*` : Multiplication
 
 / : Division
 
