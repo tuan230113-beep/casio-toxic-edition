@@ -1,0 +1,1 @@
+# casio fake loại 3,6
